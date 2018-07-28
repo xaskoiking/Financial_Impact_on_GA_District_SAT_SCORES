@@ -1,4 +1,4 @@
-,Year,County ID_x,County Name,Total Revenues,Per FTE Total,Total Expenditure,Per FTE Total Expenditure,County ID,Category of SAT Scores,Nat Num Stdnt Tested,St Num Stdnt Tested,Dist Num Stdnt Tested,St Avg SAT Score,Dist Avg SAT Score,Per FTE/Student,FIPS,STNAME
+,Year,County ID_x,County Name,Total Revenues,Per FTE Total,Total Expenditure,Per FTE Total Expenditure,County ID,Category of SAT Scores,Nat Num Stdnt Tested,St Num Stdnt Tested,Dist Num Stdnt Tested,St Avg SAT Score,Dist Avg SAT Score,Per FTE Total Expenditure/Student,FIPS,STNAME
 0,2011, 601,Appling County,32474144.93,9656.3,28848323.76,8578.15,601,Combined,1267239,84678,85,1451,1367.0,100.91941176470588,13001,Georgia
 1,2012, 601,Appling County,29832517.5,8870.81,28567145.14,8494.54,601,Combined,1284459,86835,123,1453,1342.0,69.06130081300813,13001,Georgia
 2,2013, 601,Appling County,28836125.91,8528.87,28670923.87,8480.01,601,Combined,1295267,86575,144,1443,1367.0,58.888958333333335,13001,Georgia
